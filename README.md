@@ -3,4 +3,4 @@ Process mining exercise for the exam of Formal Methods for Computer Science @ Un
 
 [pm4py documentation](https://pm4py.fit.fraunhofer.de/documentation)
 
-[pm4pt API reference](https://pm4py.fit.fraunhofer.de/static/assets/api/2.7.9/api.html)
+[pm4py API reference](https://pm4py.fit.fraunhofer.de/static/assets/api/2.7.9/api.html)
